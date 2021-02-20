@@ -8,5 +8,5 @@ If you have resources to submit, you can do so on [this Google Form](https://doc
 ### Map
 
 ```json
-Here goes your json object definition
+output.geojson
 ```

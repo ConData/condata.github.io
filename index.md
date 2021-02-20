@@ -7,6 +7,4 @@ If you have resources to submit, you can do so on [this Google Form](https://doc
 
 ### Map
 
-```json
-output.geojson
-```
+{% include leaflet.html %}
